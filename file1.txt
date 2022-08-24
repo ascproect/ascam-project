@@ -1,1 +1,0 @@
-Hello worldgit clone https://github.com/ascproect/ascam-project.git!
